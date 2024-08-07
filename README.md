@@ -1,5 +1,4 @@
 Project - GS Connect
 
-Team Member : Mayur Kshetre , Aayush Solanki , Ashish Thakur , Kehkasha Khan
+ Mayur Kshetre.
 
-Mentored By Profesor Upendra Singh
